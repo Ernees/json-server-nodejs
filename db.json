@@ -1,0 +1,49 @@
+{
+    "Teachers" : [
+        {
+            "Name": "Malena",
+            "Last Name": "Argiro",
+            "Subjects": [
+                {
+                    "Name": "NodeJs"
+                },
+                {
+                    "Name": "ReactJs"
+                },
+                {
+                    "Name": "AngularJS"
+                }
+            ]
+        }
+    ],
+    "Students":[
+        {
+            "Name": "Galo",
+            "Last Name": "Latorre",
+            "Grade Average": 10
+        },
+        {
+            "Name": "Pablo",
+            "Last Name": "Vigil",
+            "Grade Average": 9
+        }
+    ],
+    "Courses": [
+        {
+            "Name": "NodeJs",
+            "Duration": 7,
+            "Difficulty": "intermediate"
+        },
+        {
+            "Name": "ReactJs",
+            "Duration": 4,
+            "Difficulty": "intermediate"
+        },
+        {
+            "Name": "AngularJS",
+            "Duration": 8,
+            "Difficulty": "High"
+        }
+    ]
+
+}

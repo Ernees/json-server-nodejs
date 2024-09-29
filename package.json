@@ -1,0 +1,14 @@
+{
+  "name": "server-json",
+  "version": "0.0.1",
+  "description": "small server with course information",
+  "main": "app.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "Ernesto Huerta",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
